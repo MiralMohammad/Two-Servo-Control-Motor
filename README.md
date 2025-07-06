@@ -9,7 +9,6 @@ This project demonstrates how to control two servo motors using an Arduino Uno b
 - 1x Arduino Uno R3
 - 2x Servo Motors (SG90 or similar)
 - Jumper wires
-- Breadboard (optional)
 
 ---
 
